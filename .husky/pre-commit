@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "[LINTER] Cleaning up the code a bit 🧹🧹🧹"
+npm run lint

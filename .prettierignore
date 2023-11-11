@@ -1,0 +1,18 @@
+# compiled output
+/build
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+# IDE - VSCode
+.vscode/*
+
+# misc
+/.angular/cache
+/.sass-cache
+/connect.lock
+/coverage
+npm-debug.log

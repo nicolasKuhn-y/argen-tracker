@@ -1,0 +1,21 @@
+{
+  "tabWidth": 4,
+  "useTabs": true,
+  "singleQuote": true,
+  "semi": true,
+  "endOfLine": "crlf",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "trailingComma": "none",
+  "bracketSameLine": true,
+  "printWidth": 120,
+  "linebreak-style": [true, "crlf"],
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
